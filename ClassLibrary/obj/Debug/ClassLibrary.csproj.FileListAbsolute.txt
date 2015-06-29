@@ -1,0 +1,9 @@
+C:\Users\james\Dropbox\PROGRAMS\UnitTesting\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\james\Dropbox\PROGRAMS\UnitTesting\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\james\Dropbox\PROGRAMS\UnitTesting\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\james\Dropbox\PROGRAMS\UnitTesting\ClassLibrary\obj\Debug\ClassLibrary.pdb
+D:\Dropbox\PROGRAMS\UnitTesting\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Dropbox\PROGRAMS\UnitTesting\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Dropbox\PROGRAMS\UnitTesting\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROGRAMS\UnitTesting\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Dropbox\PROGRAMS\UnitTesting\ClassLibrary\obj\Debug\ClassLibrary.pdb

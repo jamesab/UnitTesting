@@ -1,0 +1,14 @@
+C:\Users\james\Dropbox\PROGRAMS\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\james\Dropbox\PROGRAMS\UnitTesting\UnitTesting\bin\Debug\UnitTesting.dll
+C:\Users\james\Dropbox\PROGRAMS\UnitTesting\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\james\Dropbox\PROGRAMS\UnitTesting\UnitTesting\bin\Debug\ClassLibrary.dll
+C:\Users\james\Dropbox\PROGRAMS\UnitTesting\UnitTesting\bin\Debug\ClassLibrary.pdb
+C:\Users\james\Dropbox\PROGRAMS\UnitTesting\UnitTesting\obj\Debug\UnitTesting.dll
+C:\Users\james\Dropbox\PROGRAMS\UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb
+D:\Dropbox\PROGRAMS\UnitTesting\UnitTesting\bin\Debug\UnitTesting.dll
+D:\Dropbox\PROGRAMS\UnitTesting\UnitTesting\bin\Debug\UnitTesting.pdb
+D:\Dropbox\PROGRAMS\UnitTesting\UnitTesting\bin\Debug\ClassLibrary.dll
+D:\Dropbox\PROGRAMS\UnitTesting\UnitTesting\bin\Debug\ClassLibrary.pdb
+D:\Dropbox\PROGRAMS\UnitTesting\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+D:\Dropbox\PROGRAMS\UnitTesting\UnitTesting\obj\Debug\UnitTesting.dll
+D:\Dropbox\PROGRAMS\UnitTesting\UnitTesting\obj\Debug\UnitTesting.pdb
